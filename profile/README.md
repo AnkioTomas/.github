@@ -13,7 +13,7 @@
 
 [工作动态](https://github.com/orgs/AutoAccountingOrg/projects/1/views/2)
 
-[社区讨论](https://github.com/orgs/AutoAccountingOrg/discussions)
+[社区讨论](https://forum.ez-book.org/c/ez-book/4)
 
 ## 🍿 有趣的事实
 美好的一天往往从早上的第一笔消费开始，让自动记账帮你管理你的财务信息。
