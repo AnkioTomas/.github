@@ -9,11 +9,11 @@
 - 在贡献之前，请查看我们的贡献指南和行为准则，以确保积极和富有成效的社区体验。；
 
 ## 👩‍💻 有用的资源
-[文档](https://auto.ankio.net)
+[文档](https://ez-book.org)
 
 [工作动态](https://github.com/orgs/AutoAccountingOrg/projects/1/views/2)
 
-[社区讨论](https://forum.ez-book.org/c/ez-book/4)
+[社区讨论](https://forum.ez-book.org/)
 
 ## 🍿 有趣的事实
 美好的一天往往从早上的第一笔消费开始，让自动记账帮你管理你的财务信息。
